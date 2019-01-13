@@ -1,0 +1,23 @@
+{
+  "name": "infinite-streams",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ajar <yariv.gilad@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ajar/marker": "^1.1.13",
+    "dotenv": "^6.2.0",
+    "hyperquest": "^2.1.3",
+    "ndjson": "^1.5.0",
+    "pump": "^3.0.0",
+    "through2": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
